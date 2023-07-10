@@ -1,6 +1,6 @@
 # React---Programs
 
-**React is Javascrpt liberary **
+React is Javascrpt liberary 
 
 Everything in recat is a object 
 
